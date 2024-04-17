@@ -86,7 +86,8 @@ namespace Anubis
         static constexpr std::string_view FnSetupHookSgn =
             "?SetupHook@Game@Anubis@@YAXW4SetupHookType@12@V?$function@$$A6AXVany@std@@@Z@std@@@Z";
 
-        static constexpr std::string_view FnCSGetHooks = "";
+        static constexpr std::string_view FnCSGetHooks =
+            "?GetHooks@CStrike@Game@Anubis@@YA?AV?$observer_ptr@VIHooks@CStrike@Game@Anubis@@@nstd@@XZ";
 #else
         static constexpr std::string_view FnQuerySgn = "_ZN6Anubis5QueryEv";
         static constexpr std::string_view FnInitSgn = "_ZN6Anubis4InitEN4nstd12observer_ptrINS_7IAnubisEEE";
