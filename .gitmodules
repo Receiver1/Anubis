@@ -1,9 +1,9 @@
-[submodule "regamedll_cs_sdk"]
-	path = regamedll_cs_sdk
-	url = https://github.com/s1lentq/ReGameDLL_CS.git
 [submodule "rehlds"]
 	path = rehlds
 	url = https://github.com/Amaroq7/ReHLDS_SDK.git
 [submodule "docs/doxygen-awesome-css"]
 	path = docs/doxygen-awesome-css
 	url = https://github.com/jothepro/doxygen-awesome-css.git
+[submodule "regamedll_cs_sdk"]
+	path = regamedll_cs_sdk
+	url = https://github.com/s1lentq/ReGameDLL_CS.git
